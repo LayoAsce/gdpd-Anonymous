@@ -1,0 +1,43 @@
+{
+	"gcm_sender_id": "482941778795",
+	"gcm_sender_id_comment": "Do not change the GCM Sender ID",
+	"lang": "en-US",
+	"name": "Kubool",
+	"short_name": "Kubool",
+	"description": "Receive Anonymous Messages & Feedback Online",
+	"icons": [
+		{
+			"src": "https://kubool.com/images/logo-icon-256x256.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "https://kubool.com/images/logo-icon-256x256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "https://kubool.com/images/logo-icon-1024x1024.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "https://kubool.com/images/logo-icon-1024x1024.png",
+			"sizes": "1024x1024",
+			"type": "image/png"
+		}
+	],
+	"background_color": "#ffffff",
+	"theme_color": "#b500c9",
+	"display": "standalone",
+	"orientation": "portrait",
+	"start_url": "https://gdpd.xyz/home.php?utm_source=web_app_manifest",
+	"scope": "https://gdpd.xyz/home.php",
+	"prefer_related_applications": true,
+	"related_applications": [
+	  {
+		"platform": "play",
+		"id": "com.kubool.app"
+	  }
+	]
+}
